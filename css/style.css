@@ -17,7 +17,7 @@
 }
 
 body {
-	background: #fff;
+	background: #f6f6f6;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
@@ -342,18 +342,20 @@ p a:hover {
 	cursor: pointer;
 }
 #footer {
-	background: #252525;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #3f3d55;
 	margin: 0;
 	padding: 36px 0 42px;
 }
 #footer div {
+	color: #ffe390;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
 	width: 960px;
 }
 #footer div p {
-	color: #fff;
+	color: #ffffff;
 	float: left;
 	line-height: 44px;
 	margin: 0 0 0 10px;
