@@ -14,4 +14,4 @@
 - https://youtu.be/lzxWOn9wxqQ
 
 # Poster
-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/KB0YhBI"><a href="//imgur.com/a/KB0YhBI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+- 
